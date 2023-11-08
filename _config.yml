@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quan Zhang"
   avatar           : "profile.png"
-  bio              : "I am a PhD student at the School of Software, Tsinghua University, advised by Prof [Yu Jiang](https://sites.google.com/site/jiangyu198964/home)"
+  bio              : "I am a PhD student at the School of Software, Tsinghua University, advised by Prof <a href="https://sites.google.com/site/jiangyu198964/home">Yu Jiang</a> "
   # location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
