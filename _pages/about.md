@@ -49,4 +49,8 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 
 Selected Awards
 ======
+- The First Prize Scholarship of Tsinghua University, 2021
+- The ACM-ICPC Asia Regional Contest Xuzhou Site, Gold Medal, 2018
+- The China Collegiate Programming Contest Final site, Silver Medal 2018
+
 
