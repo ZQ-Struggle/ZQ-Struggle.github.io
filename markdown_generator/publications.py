@@ -73,7 +73,7 @@ for row, item in publications.iterrows():
     assert conf is not None, "please provide conference name at citation item"
         
     # print(conf, authors)
-    cur = f"[<font color=#5C9EE7>{item.venue}</font>] **{item.title}**, ([pdf]({item.paper_url}))  \n*{authors}*.  \n{conf.group(1)}.\n\n"
+    cur = f"[**{item.venue}**" + "{: style=\"color: #5C9EE7; opacity: 1;\" }]"+f" **{item.title}**, ([pdf]({item.paper_url}))  \n*{authors}*.  \n{conf.group(1)}.\n\n"
     lines.append(cur)
 
 
