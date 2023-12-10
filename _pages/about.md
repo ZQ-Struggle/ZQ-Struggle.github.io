@@ -15,19 +15,19 @@ I a fourth-year Ph.D. student at the School of Software, Tsinghua University, un
 
 Publication
 ======
-\<font color=#5C9EE7\>[NDSS'24]\</font\> **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
+[<span markdown="0" color=#5C9EE7>NDSS'23</span>] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
 Network and Distributed System Security Symposium (NDSS'24).
 
-[<font color=#5C9EE7>OOPSLA'23</font>] **Building Dynamic System Call Sandbox with Partial Order Analysis**, ([pdf](http://ZQ-Struggle.github.io/files/DynBox.pdf ))  
+[<font markdown="0" color=#5C9EE7>OOPSLA'23</font>] **Building Dynamic System Call Sandbox with Partial Order Analysis**, ([pdf](http://ZQ-Struggle.github.io/files/DynBox.pdf ))  
 ***Quan Zhang**, Chijin Zhou, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'23).
 
-[<font color=#5C9EE7>OOPSLA'23</font>] **Towards Better Semantics Exploration for Browser Fuzzing**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf ))  
+[<font markdown="0" color=#5C9EE7>OOPSLA'23</font>] **Towards Better Semantics Exploration for Browser Fuzzing**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf ))  
 *Chijin Zhou, **Quan Zhang**, Lihua Guo, Mingzhe Wang, Yu Jiang, Qing Liao, Zhiyong Wu, Shanshan Li, Bin Gu*.  
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'23).
 
-[<font color=#5C9EE7>ISSTA'23</font>] **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**, ([pdf](http://ZQ-Struggle.github.io/files/CoopHance.pdf))  
+[<font markdown="0" color=#5C9EE7>ISSTA'23</font>] **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**, ([pdf](http://ZQ-Struggle.github.io/files/CoopHance.pdf))  
 ***Quan Zhang**, Yongqiang Tian, Yifeng Ding, Shanshan Li, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'23).
 
