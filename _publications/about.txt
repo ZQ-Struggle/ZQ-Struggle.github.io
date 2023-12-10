@@ -1,18 +1,3 @@
----
-permalink: /
-title: "Quan Zhang"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-I a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof <a href=\"https://sites.google.com/site/jiangyu198964/home\">Yu Jiang</a>. I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.
-
-Publication
-======
-
 [<font color=#5C9EE7 F>NDSS'24</font>]**Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, [(pdf)](http://ZQ-Struggle.github.io/files/Deseriguard.pdf )  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
 Network and Distributed System Security Symposium (NDSS'24).
@@ -44,7 +29,4 @@ IEEE Transactions on Software Engineering (TSE).
 [<font color=#5C9EE7 F>ISSTA'21</font>]**AdvDoor: Adversarial Backdoor Attack of Deep Learning System**, [(pdf)](http://ZQ-Struggle.github.io/files/AdvDoor.pdf)  
 ***Quan Zhang**, Yifeng Ding, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'21).
-
-Selected Awards
-======
 
