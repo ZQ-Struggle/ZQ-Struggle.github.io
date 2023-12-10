@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof <a href=\"https://sites.google.com/site/jiangyu198964/home\">Yu Jiang</a>. I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.
+I a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.
 
 Publication
 ======
