@@ -15,7 +15,7 @@ I a fourth-year Ph.D. student at the School of Software, Tsinghua University, un
 
 Publication
 ======
-[<span markdown="0" style="color:#5C9EE7">NDSS'23</span>] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
+[**NDSS'23**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
 Network and Distributed System Security Symposium (NDSS'24).
 
