@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.
+I a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.  
+**Email: QuanZh98@gmail.com**
 
-#### Email quanzh98@gmail.com
+
 
 Publication
 ======
-[<font color=#5C9EE7>NDSS'24</font>] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
+<font color=#5C9EE7>[NDSS'24]</font> **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
 Network and Distributed System Security Symposium (NDSS'24).
 
