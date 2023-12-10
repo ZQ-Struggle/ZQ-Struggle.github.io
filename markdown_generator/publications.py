@@ -24,7 +24,7 @@
 # In[2]:
 
 import pandas as pd
-
+import re
 
 # ## Import TSV
 # 
@@ -62,8 +62,21 @@ def html_escape(text):
 # In[5]:
 
 import os
+
+re_conf = re.compile(".*<i>(.*)</i>.*")
+lines = []
 for row, item in publications.iterrows():
-    
+    print(item.citation)
+    authors = item.citation.split(".")[0].strip()
+    authors = authors.replace("<b>Quan Zhang</b>", "**Quan Zhang**")
+    conf = re.match(re_conf, item.citation)
+    assert conf is not None, "please provide conference name at citation item"
+        
+    # print(conf, authors)
+    cur = f"[<font color=#5C9EE7 F>{item.venue}</font>]**{item.title}**, [(pdf)]({item.paper_url})  \n*{authors}*.  \n{conf.group(1)}.\n\n"
+    lines.append(cur)
+
+
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
@@ -101,8 +114,12 @@ for row, item in publications.iterrows():
     md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
+
+
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
+print(lines)
+with open("../_publications/about.txt", 'w') as f:
+    f.writelines(lines)
 
