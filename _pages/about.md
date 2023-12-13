@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the School of Software, Tsinghua University, under the supervision of Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests are centered around program analysis, system security, and artificial intelligence security.  
+I am now a fourth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security. If you have any questions, please feel free to contract me.
 **Email: QuanZh98@gmail.com**
-
 
 
 Publication
@@ -50,7 +49,8 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 Selected Awards
 ======
 - The First Prize Scholarship of Tsinghua University, 2021
-- The ACM-ICPC Asia Regional Contest Xuzhou Site, Gold Medal, 2018
-- The China Collegiate Programming Contest Final site, Silver Medal 2018
+- Outstanding Graduate Award of Beijing, 2020
+- The ACM-ICPC Asia Regional Contest (ICPC) Xuzhou Site, Gold Medal, 2018
+- The China Collegiate Programming Contest (CCPC) Final site, Silver Medal, 2018
 
 
