@@ -34,7 +34,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 *Chijin Zhou, Lihua Guo, Yiwei Hou, Zhenya Ma, **Quan Zhang**, Mingzhe Wang, Zhe Liu, and Yu Jiang*.  
 IEEE Symposium on Security and Privacy (S&P'23).
 
-[**ESEC/FSE'22**{: style="color: #5C9EE7; opacity: 1;" }] **Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis (ESEC/FSE 2022: 1135-1147 Distinguished Paper Award)**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf))  
+[**ESEC/FSE'22**{: style="color: #5C9EE7; opacity: 1;" }] **Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis** **(ESEC/FSE 2022 Distinguished Paper Award)**{: style="color: red; opacity: 1;" }, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf))  
 *Chijin Zhou, **Quan Zhang**, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang*.  
 The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22).
 
