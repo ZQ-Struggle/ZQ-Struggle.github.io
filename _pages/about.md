@@ -15,11 +15,11 @@ I am now a fourth-year Ph.D. student at the School of Software, Tsinghua Univers
 Publication
 ======
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
-***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
+***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.\\  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
-[**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
-*Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***.
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
+*Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***.\\
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
 [**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
