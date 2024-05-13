@@ -14,12 +14,20 @@ I am now a fourth-year Ph.D. student at the School of Software, Tsinghua Univers
 
 Publication
 ======
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,
+* **Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
+ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
+
+[**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,
+*Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***
+ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
+
 [**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
-***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
+* **Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
 Network and Distributed System Security Symposium (NDSS'24).
 
 [**OOPSLA'23**{: style="color: #5C9EE7; opacity: 1;" }] **Building Dynamic System Call Sandbox with Partial Order Analysis**, ([pdf](http://ZQ-Struggle.github.io/files/DynBox.pdf ))  
-***Quan Zhang**, Chijin Zhou, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
+* **Quan Zhang**, Chijin Zhou, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'23).
 
 [**OOPSLA'23**{: style="color: #5C9EE7; opacity: 1;" }] **Towards Better Semantics Exploration for Browser Fuzzing**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf ))  
@@ -27,7 +35,7 @@ Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'23).
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'23).
 
 [**ISSTA'23**{: style="color: #5C9EE7; opacity: 1;" }] **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**, ([pdf](http://ZQ-Struggle.github.io/files/CoopHance.pdf))  
-***Quan Zhang**, Yongqiang Tian, Yifeng Ding, Shanshan Li, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
+* **Quan Zhang**, Yongqiang Tian, Yifeng Ding, Shanshan Li, Chengnian Sun, Yu Jiang, and Jiaguang Sun*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'23).
 
 [**S&P'23**{: style="color: #5C9EE7; opacity: 1;" }] **Limits of I/O Based Ransomware Detection: An Imitation Based Attack**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf))  
@@ -43,14 +51,21 @@ The ACM Joint European Software Engineering Conference and Symposium on the Foun
 IEEE Transactions on Software Engineering (TSE).
 
 [**ISSTA'21**{: style="color: #5C9EE7; opacity: 1;" }] **AdvDoor: Adversarial Backdoor Attack of Deep Learning System**, ([pdf](http://ZQ-Struggle.github.io/files/AdvDoor.pdf))  
-***Quan Zhang**, Yifeng Ding, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang*.  
+* **Quan Zhang**, Yifeng Ding, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'21).
 
 Selected Awards
 ======
-- The First Prize Scholarship of Tsinghua University, 2021
+- The First Prize Scholarship of Tsinghua University, 2021, 2023
 - Outstanding Graduate Award of Beijing, 2020
 - The ACM-ICPC Asia Regional Contest (ICPC) Xuzhou Site, Gold Medal, 2018
 - The China Collegiate Programming Contest (CCPC) Final site, Silver Medal, 2018
 
+
+Services
+======
+- Transactions on Knowledge Discovery from Data (TKDD), Reviewer, 2023
+- Transactions on Information Forensics \& Security (TIFS), Reviewer, 2024
+- Programming Fundamentals, Teaching Assistant, 2022
+- Model Based Software Design, Teaching Assistant, 2023
 
