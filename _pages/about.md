@@ -14,12 +14,12 @@ I am now a fourth-year Ph.D. student at the School of Software, Tsinghua Univers
 
 Publication
 ======
-[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
 ***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
-[**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,
-*Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***
+[**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
+*Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***.
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
 [**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
@@ -42,9 +42,9 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 *Chijin Zhou, Lihua Guo, Yiwei Hou, Zhenya Ma, **Quan Zhang**, Mingzhe Wang, Zhe Liu, and Yu Jiang*.  
 IEEE Symposium on Security and Privacy (S&P'23).
 
-[**ESEC/FSE'22**{: style="color: #5C9EE7; opacity: 1;" }] **Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis** **(ESEC/FSE 2022 Distinguished Paper Award)**{: style="color: red; opacity: 1;" }, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf))  
+[**ESEC/FSE'22**{: style="color: #5C9EE7; opacity: 1;" }] **Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf))  
 *Chijin Zhou, **Quan Zhang**, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang*.  
-The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22).
+The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22), **(ESEC/FSE 2022 Distinguished Paper Award)**{: style="color: red; opacity: 1;" }.
 
 [**TSE**{: style="color: #5C9EE7; opacity: 1;" }] **RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/RNN-Test-final.pdf))  
 *Jianmin Guo, **Quan Zhang**, Yue Zhao, Heyuan Shi, Yu Jiang and Jiaguang Sun*.  
