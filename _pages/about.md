@@ -15,7 +15,7 @@ I am now a fourth-year Ph.D. student at the School of Software, Tsinghua Univers
 Publication
 ======
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
-***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.\\  
+***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
