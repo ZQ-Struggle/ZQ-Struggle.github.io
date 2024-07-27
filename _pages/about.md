@@ -12,8 +12,8 @@ I am now a fifth-year Ph.D. student at the School of Software, Tsinghua Universi
 **Email: QuanZh98@gmail.com**
 
 <center>  <b><font color="red" size=4>I will graduate in June 2025. Feel free to contact me regarding any job opportunities.</font>  </b></center>
-  
   <br>
+
 Publication
 ======
 [**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**\\
