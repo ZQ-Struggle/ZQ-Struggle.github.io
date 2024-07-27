@@ -11,7 +11,7 @@ redirect_from:
 I am now a fifth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security. If you have any questions, please feel free to contract me.
 **Email: QuanZh98@gmail.com**
 
-<font color="red" size=10>I will graduate in June 2025. Feel free to contact me regarding any job opportunities.</font>
+<center>  <b><font color="red" size="4">I will graduate in June 2025. Feel free to contact me regarding any job opportunities.</font>  </b></center>
 Publication
 ======
 [**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**\\
