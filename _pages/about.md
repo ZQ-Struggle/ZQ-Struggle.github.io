@@ -8,19 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security. If you have any questions, please feel free to contract me.
+I am now a fifth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security. If you have any questions, please feel free to contract me.
 **Email: QuanZh98@gmail.com**
 
+<center><font color="red" size=50>I will graduate in June 2025. Feel free to contact me regarding any job opportunities.</font></center>
 
 Publication
 ======
+[**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**\\
+*Chijin Zhou, **Quan Zhang**, Bingzhou Qian, Yu Jiang*.
+IEEE/ACM International Conference on Software Engineering (ICSE'25).
+
+[**OOPSLA'24**{: style="color: #5C9EE7; opacity: 1;" }] **PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting**,\\
+*Chijin Zhou, Bingzhou Qian, Gwihwan Go, **Quan Zhang**, Shanshan Li, Yu Jiang*.  
+Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
+
+[**OOPSLA'24**{: style="color: #5C9EE7; opacity: 1;" }] **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**,\\
+*Gwihwan Go, Chijin Zhou\*, **Quan Zhang\***, Xiazijian Zou, Heyuan Shi, Yu Jiang*.  
+Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
+
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
 ***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
 *Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***.\\
-ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
+ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24) ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/FuzzMeetLLM_FSE24.pdf)).
 
 [**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
