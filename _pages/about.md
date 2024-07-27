@@ -23,9 +23,9 @@ IEEE/ACM International Conference on Software Engineering (ICSE'25).
 *Chijin Zhou, Bingzhou Qian, Gwihwan Go, **Quan Zhang**, Shanshan Li, Yu Jiang*.  
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
 
-[**OOPSLA'24**{: style="color: #5C9EE7; opacity: 1;" }] **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**,\\
+[**ISSTA'24**{: style="color: #5C9EE7; opacity: 1;" }] **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**,\\
 *Gwihwan Go, Chijin Zhou\*, **Quan Zhang\***, Xiazijian Zou, Heyuan Shi, Yu Jiang*.  
-Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
+The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24).
 
 [**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
 ***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
