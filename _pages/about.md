@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security. If you have any questions, please feel free to contract me.
+I am now a fifth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security.
 **Email: QuanZh98@gmail.com**
 
-<center>  <b><font color="red" size=4>I will graduate in June 2025. Feel free to contact me regarding any job opportunities.</font>  </b></center>
+<center>  <b><font color="red" size=4>I will be graduating in June 2025. Please drop me an email if there are any suitable positions.</font>  </b></center>
   <br>
 
 Publication
@@ -71,6 +71,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 Selected Awards
 ======
 - The First Prize Scholarship of Tsinghua University, 2021, 2023
+- ESEC/FSE’22 Distinguished Paper Award, 2022
 - Outstanding Graduate Award of Beijing, 2020
 - The ACM-ICPC Asia Regional Contest (ICPC) Xuzhou Site, Gold Medal, 2018
 - The China Collegiate Programming Contest (CCPC) Final site, Silver Medal, 2018
@@ -80,6 +81,7 @@ Services
 ======
 - Transactions on Knowledge Discovery from Data (TKDD), **Reviewer**, 2023
 - Transactions on Information Forensics \& Security (TIFS), **Reviewer**, 2024
+- ICSE'25 Shadow PC, 2024
 - Programming Fundamentals, Teaching Assistant, 2022
 - Model Based Software Design, Teaching Assistant, 2023
 
