@@ -16,6 +16,10 @@ I am now a fifth-year Ph.D. student at the School of Software, Tsinghua Universi
 
 Publication
 ======
+[**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**\\
+***Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
+ACM/IEEE International Conference on Automated Software Engineering (ASE'24).
+
 [**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**\\
 *Chijin Zhou, **Quan Zhang**, Bingzhou Qian, Yu Jiang*.
 IEEE/ACM International Conference on Software Engineering (ICSE'25).
