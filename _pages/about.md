@@ -74,6 +74,7 @@ The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'
 
 Selected Awards
 ======
+- National Scholarship, 2024
 - The First Prize Scholarship of Tsinghua University, 2021, 2023
 - ESEC/FSE’22 Distinguished Paper Award, 2022
 - Outstanding Graduate Award of Beijing, 2020
