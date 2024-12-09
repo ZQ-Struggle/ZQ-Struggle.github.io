@@ -16,7 +16,7 @@ I am now a fifth-year Ph.D. student at the School of Software, Tsinghua Universi
 
 Publication
 ======
-[**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/ContentPoisoning_ASE24.pdf))\\
+[**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**, ([pdf](http://ZQ-Struggle.github.io/files/ASE24-ContentPoisoning.pdf))\\
 ***Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
 ACM/IEEE International Conference on Automated Software Engineering (ASE'24).
 
@@ -32,7 +32,7 @@ Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
 *Gwihwan Go, Chijin Zhou\*, **Quan Zhang\***, Xiazijian Zou, Heyuan Shi, Yu Jiang*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24).
 
-[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/RetrievalPoisoning_FSE24.pdf)) \\
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,([pdf](http://ZQ-Struggle.github.io/files/fse-ivr24-retrieval_poisoning.pdf)) \\
 ***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
