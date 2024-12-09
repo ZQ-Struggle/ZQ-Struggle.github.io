@@ -16,29 +16,29 @@ I am now a fifth-year Ph.D. student at the School of Software, Tsinghua Universi
 
 Publication
 ======
-[**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**\\
+[**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/ContentPoisoning_ASE24.pdf))\\
 ***Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
 ACM/IEEE International Conference on Automated Software Engineering (ASE'24).
 
-[**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**\\
+[**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/janus_icse25.pdf))\\
 *Chijin Zhou, **Quan Zhang**, Bingzhou Qian, Yu Jiang*.
 IEEE/ACM International Conference on Software Engineering (ICSE'25).
 
-[**OOPSLA'24**{: style="color: #5C9EE7; opacity: 1;" }] **PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting**,\\
+[**OOPSLA'24**{: style="color: #5C9EE7; opacity: 1;" }] **PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/polyjuice_oopsla24.pdf))\\
 *Chijin Zhou, Bingzhou Qian, Gwihwan Go, **Quan Zhang**, Shanshan Li, Yu Jiang*.  
 Object-Oriented Programming, Systems, Languages & Applications (OOPSLA'24).
 
-[**ISSTA'24**{: style="color: #5C9EE7; opacity: 1;" }] **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**,\\
+[**ISSTA'24**{: style="color: #5C9EE7; opacity: 1;" }] **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/DeepConstr_ISSTA24.pdf))\\
 *Gwihwan Go, Chijin Zhou\*, **Quan Zhang\***, Xiazijian Zou, Heyuan Shi, Yu Jiang*.  
 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24).
 
-[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,\\
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**,([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/RetrievalPoisoning_FSE24.pdf)) \\
 ***Quan Zhang**, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*.  
 ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
-[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**,\\
+[**FSE'24**{: style="color: #5C9EE7; opacity: 1;" }] **When Fuzzing Meets LLMs: Challenges and Opportunities**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/FuzzMeetLLM_FSE24.pdf))\\
 *Yu Jiang, Jie Liang, Fuchen Ma, Yuanliang Chen, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, **Quan Zhang***.\\
-ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24) ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/FuzzMeetLLM_FSE24.pdf)).
+ACM International Conference on the Foundations of Software Engineering Ideas, Visions and Reflections Track (FSE-IVR'24).
 
 [**NDSS'24**{: style="color: #5C9EE7; opacity: 1;" }] **Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization**, ([pdf](http://ZQ-Struggle.github.io/files/Deseriguard.pdf ))  
 ***Quan Zhang**, Yiwen Xu, Zijing Yin, Chijin Zhou, and Yu Jiang*.  
