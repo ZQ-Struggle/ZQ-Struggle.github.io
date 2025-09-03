@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth-year Ph.D. student at the School of Software, Tsinghua University, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my BS degree from the School of Computer Science at Beijing University of Posts and Telecommunications in 2020. My research focus lies in program analysis, system security, and artificial intelligence security.
+I am an assistant professor at Software Engineering Institute, East China Normal University.
+I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. Yu Jiang. I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of identifying novel threats and developing effective mitigation strategies.
+
 **Email: QuanZh98@gmail.com**
 
-<center>  <b><font color="red" size=4>I will be graduating in June 2025. Please drop me an email if there are any suitable positions.</font>  </b></center>
+<center>  <b><font color="red" size=4>I am currently seeking motivated Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
   <br>
 
 Publication
