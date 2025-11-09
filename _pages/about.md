@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Software Engineering Institute, East China Normal University.
-I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. Jiaguang Sun and Prof. Yu Jiang. I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of identifying novel threats and developing effective mitigation strategies.
+I am a tenure-track assistant professor at Software Engineering Institute, East China Normal University.
+I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. Jiaguang Sun and Prof. Yu Jiang. I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of developing a principled defense paradigm for rapidly evolving agent systems.
 
 **Email: QuanZh98@gmail.com**
 
 <center>  <b><font color="red" size=4>I am currently seeking motivated Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
-  <br>
+<br>
 
 Publication
 ======
+[**ICSE'26**{: style="color: #5C9EE7; opacity: 1;" }]
+**LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/icse_lsprag.pdf))\\
+*Gwihwan Go, **Quan Zhang\***, Chijin Zhou\*, Zhao Wei, Y Jiang*.
+ IEEE/ACM International Conference on Software Engineering (ICSE'26).
+
 [**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**, ([pdf](http://ZQ-Struggle.github.io/files/ASE24-ContentPoisoning.pdf))\\
-***Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
+* **Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
 ACM/IEEE International Conference on Automated Software Engineering (ASE'24).
 
 [**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/janus_icse25.pdf))\\
