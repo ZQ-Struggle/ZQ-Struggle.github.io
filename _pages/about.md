@@ -93,6 +93,7 @@ Services
 ======
 - Transactions on Knowledge Discovery from Data (TKDD), **Reviewer**, 2023
 - Transactions on Information Forensics \& Security (TIFS), **Reviewer**, 2024
+- Transactions on Knowledge and Data Engineering (TKDE), **Reviewer**, 2025
 - ICSE'25 Shadow PC, 2024
 - Programming Fundamentals, Teaching Assistant, 2022
 - Model Based Software Design, Teaching Assistant, 2023
