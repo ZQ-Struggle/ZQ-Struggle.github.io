@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a tenure-track assistant professor at Software Engineering Institute, East China Normal University.
-I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. <a href=\"https://www.thss.tsinghua.edu.cn/faculty/sunjiaguang.htm\">Jiaguang Sun</a> and Prof. <a href=\"https://sites.google.com/site/jiangyu198964/home\">Yu Jiang</a>. I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of developing a principled defense paradigm for rapidly evolving agent systems.
+I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. [Jiaguang Sun](https://www.thss.tsinghua.edu.cn/faculty/sunjiaguang.htm) and Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of developing a principled defense paradigm for rapidly evolving agent systems.
 
 **Email: QuanZh98@gmail.com**
 

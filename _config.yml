@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quan Zhang"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Quan Zhang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quan Zhang"
   avatar           : "photo.png"
-  bio              : "I am an Assistant Professor of Software Engineering Institute, East China Normal University."
+  bio              : "Assistant Professor of Software Engineering Institute, East China Normal University."
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
