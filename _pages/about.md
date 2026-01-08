@@ -24,7 +24,7 @@ Publication
  IEEE/ACM International Conference on Software Engineering (ICSE'26).
 
 [**ASE'24**{: style="color: #5C9EE7; opacity: 1;" }] **Imperceptible Content Poisoning in LLM-Powered Applications**, ([pdf](http://ZQ-Struggle.github.io/files/ASE24-ContentPoisoning.pdf))\\
-* **Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
+***Quan Zhang**, Chijin Zhou, Gwihwan Go, Binqi Zeng, Heyuan Shi, Zichen Xu, Yu Jiang*.
 ACM/IEEE International Conference on Automated Software Engineering (ASE'24).
 
 [**ICSE'25**{: style="color: #5C9EE7; opacity: 1;" }] **Janus: Detecting Rendering Bugs in Web Browsers via Visual Delta Consistency**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/janus_icse25.pdf))\\
