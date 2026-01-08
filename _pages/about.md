@@ -13,8 +13,8 @@ I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, su
 
 **Email: QuanZh98@gmail.com**
 
-<center>  <b><font color="red" size=4>I am currently seeking motivated Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
-<br>
+<!-- <center>  <b><font color="red" size=4>I am currently seeking motivated Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
+<br> -->
 
 Publication
 ======
