@@ -18,6 +18,11 @@ I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, su
 
 Publication
 ======
+[**FSE'26**{: style="color: #5C9EE7; opacity: 1;" }]
+**InDe-LLM: Defending Against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling**, ([pdf]())\\
+*Yujue Wang, **Quan Zhang\***, Chijin Zhou\*, Gwihwan Go, Dalong Shi, and Yu Jiang*.
+  ACM International Conference on the Foundations of Software Engineering (FSE'26).
+
 [**ICSE'26**{: style="color: #5C9EE7; opacity: 1;" }]
 **LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation**, ([pdf](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/icse_lsprag.pdf))\\
 *Gwihwan Go, **Quan Zhang\***, Chijin Zhou\*, Zhao Wei, Y Jiang*.
