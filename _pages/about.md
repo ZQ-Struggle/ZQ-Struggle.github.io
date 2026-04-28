@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor at Software Engineering Institute, East China Normal University.
+My name is Quan Zhang (张泉), pronounced like "chwen jahng".  I am a tenure-track assistant professor at Software Engineering Institute, East China Normal University.
 I earned my Ph.D. in 2025 from the School of Software at Tsinghua University, supervised by Prof. [Jiaguang Sun](https://www.thss.tsinghua.edu.cn/faculty/sunjiaguang.htm) and Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I completed my B.S. in Computer Science at Beijing University of Posts and Telecommunications in 2020. My research interests include program analysis, system security, and artificial intelligence security. My current research focuses on the security of agent systems, with the goal of developing a principled defense paradigm for rapidly evolving agent systems.
 
-<center>  <b><font color="red" size=4>I am currently seeking motivated Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
+<center>  <b><font color="red" size=4>I am currently seeking motivated Ph.D. and Master's students to join my research group. If you are interested, please get in touch with me.</font>  </b></center>
 <br>
 
 **Email: QuanZh98@gmail.com**
